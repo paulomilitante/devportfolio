@@ -12,11 +12,15 @@
 
 #mastHead {
 	background-image: url("img/masthead.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	position: relative;
 }
 
 #portfolio {
 	background-image: url("img/portfolio.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	position: relative;
 }
 
@@ -26,6 +30,8 @@ footer {
 
 #contact {
 	background-image: url("img/contact.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .container1 {
 	padding-top: 20vh;
